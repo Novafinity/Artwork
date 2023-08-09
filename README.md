@@ -4,7 +4,7 @@ Welcome to Novafinity's Artwork!
 
 ## Examples
 #### Javascript
-[![Javascript](https://github.com/Novafinity/Artwork/blob/a4f9611304270135aa70cb345c7843cd0e10d263/Badges/Made%20with/Rust.png)](Javascript)
+[![Javascript](https://github.com/Novafinity/Artwork/blob/a4f9611304270135aa70cb345c7843cd0e10d263/Badges/Made%20with/javascript.png)](Javascript)
 #### php
 [![php](https://github.com/Novafinity/Artwork/blob/a4f9611304270135aa70cb345c7843cd0e10d263/Badges/Made%20with/php.png)](php)
 #### Rust
