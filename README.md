@@ -8,11 +8,11 @@ Welcome to Novafinity's Artwork!
 #### php
 [![php](https://github.com/Novafinity/Artwork/tree/main/Badges/Made%20with/php.png)](php)
 #### Rust
-[![Rust](https://github.com/Novafinity/Artwork/tree/main/Badges/Made%20with/rust.png)](Rust)
+[![Rust](https://github.com/Novafinity/Artwork/tree/main/Badges/Made%20with/Rust.png)](Rust)
 #### Shell
-[![Shell](https://github.com/Novafinity/Artwork/tree/main/Badges/Made%20with/shell.png)](Shell)
+[![Shell](https://github.com/Novafinity/Artwork/tree/main/Badges/Made%20with/Shell.png)](Shell)
 #### Typescript
-[![Typescript](https://github.com/Novafinity/Artwork/tree/main/Badges/Made%20with/typescript.png)](Typescript)
+[![Typescript](https://github.com/Novafinity/Artwork/tree/main/Badges/Made%20with/Typescript.png)](Typescript)
 
 
 ## Contributing
