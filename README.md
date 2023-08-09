@@ -19,4 +19,4 @@ Welcome to Novafinity's Artwork!
 We welcome contributions! If you find any issues or want to add new features, feel free to open a pull request or issue.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 License.
