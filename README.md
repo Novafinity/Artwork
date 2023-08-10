@@ -8,11 +8,11 @@ Welcome to Novafinity's Artwork!
 ## Examples
 ### V2
 #### Blade
-[![Blade_dark](https://github.com/Novafinity/Artwork/blob/fb5d9eca776f8057add4536d05f9fcc92bdcf65c/V2/badges/Blade_dark.png)](Blade_dark)
-[![Blade_light](https://github.com/Novafinity/Artwork/blob/fb5d9eca776f8057add4536d05f9fcc92bdcf65c/V2/Badges/Blade_light.png)](Blade_light)
+[![Blade_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_dark.png)](Blade_dark)
+[![Blade_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_light.png)](Blade_light)
 ```
-[![Blade_dark](https://github.com/Novafinity/Artwork/blob/fb5d9eca776f8057add4536d05f9fcc92bdcf65c/V2/Badges/Blade_dark.png)](Blade_dark)
-[![Blade_light](https://github.com/Novafinity/Artwork/blob/fb5d9eca776f8057add4536d05f9fcc92bdcf65c/V2/Badges/Blade_light.png)](Blade_light)
+[![Blade_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_dark.png)](Blade_dark)
+[![Blade_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_light.png)](Blade_light)
 ```
 
 #### C++
