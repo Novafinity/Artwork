@@ -7,7 +7,7 @@ Welcome to Novafinity's Artwork!
 
 ## Examples
 ## V2
-#### Blade
+### Blade
 [![Blade_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_dark.png)](Blade_dark)
 [![Blade_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_light.png)](Blade_light)
 ```
@@ -15,7 +15,7 @@ Welcome to Novafinity's Artwork!
 [![Blade_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_light.png)](Blade_light)
 ```
 
-#### C++
+### C++
 [![C++_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/C++_dark.png)](C++_dark)
 [![C++_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/C++_light.png)](C++_light)
 ```
@@ -23,7 +23,7 @@ Welcome to Novafinity's Artwork!
 [![C++_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/C++_light.png)](C++_light)
 ```
 
-#### C
+### C
 [![C_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/C_dark.png)](C_dark)
 [![C_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/C_light.png)](C_light)
 ```
@@ -31,7 +31,7 @@ Welcome to Novafinity's Artwork!
 [![C_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/C_light.png)](C_light)
 ```
 
-#### Css
+### Css
 [![Css_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Css_dark.png)](Css_dark)
 [![Css_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Css_light.png)](Css_light)
 ```
@@ -39,7 +39,7 @@ Welcome to Novafinity's Artwork!
 [![Css_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Css_light.png)](Css_light)
 ```
 
-#### Docker
+### Docker
 [![Docker_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_dark.png)](Docker_dark)
 [![Docker_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_light.png)](Docker_light)
 ```
@@ -47,7 +47,7 @@ Welcome to Novafinity's Artwork!
 [![Docker_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_light.png)](Docker_light)
 ```
 
-#### EJS
+### EJS
 [![EJS_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/EJS_dark.png)](EJS_dark)
 [![EJS_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/EJS_light.png)](EJS_light)
 ```
@@ -55,7 +55,7 @@ Welcome to Novafinity's Artwork!
 [![EJS_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/EJS_light.png)](EJS_light)
 ```
 
-#### Go
+### Go
 [![Go_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Go_dark.png)](Go_dark)
 [![Go_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Go_light.png)](Go_light)
 ```
@@ -63,7 +63,7 @@ Welcome to Novafinity's Artwork!
 [![Go_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Go_light.png)](Go_light)
 ```
 
-#### Html
+### Html
 [![Html_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Html_dark.png)](Html_dark)
 [![Html_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Html_light.png)](Html_light)
 ```
@@ -71,7 +71,7 @@ Welcome to Novafinity's Artwork!
 [![Html_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Html_light.png)](Html_light)
 ```
 
-#### Java
+### Java
 [![Java_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Java_dark.png)](Java_dark)
 [![Java_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Java_light.png)](Java_light)
 ```
@@ -79,7 +79,7 @@ Welcome to Novafinity's Artwork!
 [![Java_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Java_light.png)](Java_light)
 ```
 
-#### Javascript
+### Javascript
 [![Javascript_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Javascript_dark.png)](Javascript_dark)
 [![Javascript_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Javascript_light.png)](Javascript_light)
 ```
@@ -87,7 +87,7 @@ Welcome to Novafinity's Artwork!
 [![Javascript_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Javascript_light.png)](Javascript_light)
 ```
 
-#### Lua
+### Lua
 [![Lua_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_dark.png)](Lua_dark)
 [![Lua_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_light.png)](Lua_light)
 ```
@@ -95,7 +95,7 @@ Welcome to Novafinity's Artwork!
 [![Lua_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_light.png)](Lua_light)
 ```
 
-#### Php
+### Php
 [![Php_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Php_dark.png)](Php_dark)
 [![Php_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Php_light.png)](Php_light)
 ```
@@ -103,7 +103,7 @@ Welcome to Novafinity's Artwork!
 [![Php_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Php_light.png)](Php_light)
 ```
 
-#### Python
+### Python
 [![Python_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Python_dark.png)](Python_dark)
 [![Python_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Python_light.png)](Python_light)
 ```
@@ -111,7 +111,7 @@ Welcome to Novafinity's Artwork!
 [![Python_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Python_light.png)](Python_light)
 ```
 
-#### React
+### React
 [![React_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/React_dark.png)](React_dark)
 [![React_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/React_light.png)](React_light)
 ```
@@ -119,7 +119,7 @@ Welcome to Novafinity's Artwork!
 [![React_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/React_light.png)](React_light)
 ```
 
-#### Rust
+### Rust
 [![Rust_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Rust_dark.png)](Rust_dark)
 [![Rust_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Rust_light.png)](Rust_light)
 ```
@@ -127,7 +127,7 @@ Welcome to Novafinity's Artwork!
 [![Rust_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Rust_light.png)](Rust_light)
 ```
 
-#### Shell
+### Shell
 [![Shell_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Shell_dark.png)](Shell_dark)
 [![Shell_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Shell_light.png)](Shell_light)
 ```
@@ -135,7 +135,7 @@ Welcome to Novafinity's Artwork!
 [![Shell_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Shell_light.png)](Shell_light)
 ```
 
-#### Typescript
+### Typescript
 [![Typescript_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Typescript_dark.png)](Typescript_dark)
 [![Typescript_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Typescript_light.png)](Typescript_light)
 ```
@@ -143,7 +143,7 @@ Welcome to Novafinity's Artwork!
 [![Typescript_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Typescript_light.png)](Typescript_light)
 ```
 
-#### Vue
+### Vue
 [![Vue_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Vue_dark.png)](Vue_dark)
 [![Vue_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Vue_light.png)](Vue_light)
 ```
