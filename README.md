@@ -41,10 +41,10 @@ Welcome to Novafinity's Artwork!
 
 #### Docker
 [![Docker_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_dark.png)](Docker_dark)
-[![Docker_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_dark.png)](Docker_light)
+[![Docker_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_light.png)](Docker_light)
 ```
 [![Docker_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_dark.png)](Docker_dark)
-[![Docker_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_dark.png)](Docker_light)
+[![Docker_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Docker_light.png)](Docker_light)
 ```
 
 #### EJS
