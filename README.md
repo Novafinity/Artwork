@@ -2,7 +2,7 @@
 
 Welcome to Novafinity's Artwork!
 
-[![Novafinity](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/Badges/Novafinity_dark.png)](Novafinity)
+[![Novafinity](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Novafinity_dark.png)](Novafinity)
 
 
 ## Examples
