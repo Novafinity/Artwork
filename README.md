@@ -2,7 +2,7 @@
 
 Welcome to Novafinity's Artwork!
 
-[![Novafinity](https://github.com/Novafinity/Artwork/blob/a4f9611304270135aa70cb345c7843cd0e10d263/V2/Badges/Novafinity_dark.png)](Novafinity)
+[![Novafinity](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/Badges/Novafinity_dark.png)](Novafinity)
 
 
 ## Examples
@@ -89,10 +89,10 @@ Welcome to Novafinity's Artwork!
 
 #### Lua
 [![Lua_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_dark.png)](Lua_dark)
-[![Lua_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_dark.png)](Lua_light)
+[![Lua_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_light.png)](Lua_light)
 ```
 [![Lua_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_dark.png)](Lua_dark)
-[![Lua_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_dark.png)](Lua_light)
+[![Lua_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Lua_light.png)](Lua_light)
 ```
 
 #### Php
