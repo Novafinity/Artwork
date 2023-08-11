@@ -2,11 +2,119 @@
 
 Welcome to Novafinity's Artwork!
 
-[![Novafinity](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Novafinity_dark.png)](Novafinity)
+[![Novafinity](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Novafinity.png)](Novafinity)
 
 
 ## Examples
+## V3
+
+### Blade
+[![Blade](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Blade.png)](Blade)
+``` 
+[![Blade](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Blade.png)](Blade) 
+```
+
+### C
+[![C](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C.png)](C)
+``` 
+[![C](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C.png)](C) 
+```
+
+### C#
+[![C#](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C#.png)](C#)
+``` 
+[![C#](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C#.png)](C#) 
+```
+
+### C++
+[![C++](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C++.png)](C++)
+``` 
+[![C++](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C++.png)](C++) 
+```
+
+### css
+[![css](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/css.png)](css)
+``` 
+[![css](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/css.png)](css) 
+```
+
+### Docker
+[![Docker](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Docker.png)](Docker)
+``` 
+[![Docker](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Docker.png)](Docker) 
+```
+
+### Go
+[![Go](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Go.png)](Go)
+``` 
+[![Go](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Go.png)](Go) 
+```
+
+### html
+[![html](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/html.png)](html)
+``` 
+[![html](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/html.png)](html) 
+```
+
+### Java
+[![Java](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Java.png)](Java)
+``` 
+[![Java](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Java.png)](Java) 
+```
+
+### Javascript
+[![Javascript](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Javascript.png)](Javascript)
+``` 
+[![Javascript](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Javascript.png)](Javascript) 
+```
+
+### Lua
+[![Lua](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Lua.png)](Lua)
+``` 
+[![Lua](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Lua.png)](Lua) 
+```
+
+### php
+[![php](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/php.png)](php)
+``` 
+[![php](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/php.png)](php) 
+```
+### Python
+[![Python](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Python.png)](Python)
+``` 
+[![Python](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Python.png)](Python) 
+```
+### React
+[![React](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/React.png)](React)
+``` 
+[![React](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/React.png)](React) 
+```
+### Rust
+[![Rust](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Rust.png)](Rust)
+``` 
+[![Rust](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Rust.png)](Rust) 
+```
+
+### Shell
+[![Shell](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Shell.png)](Shell)
+``` 
+[![Shell](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Shell.png)](Shell) 
+```
+
+### Typescript
+[![Typescript](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Typescript.png)](Typescript)
+``` 
+[![Typescript](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Typescript.png)](Typescript) 
+```
+
+### Vue
+[![Vue](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Vue.png)](Vue)
+``` 
+[![Vue](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/Vue.png)](Vue) 
+```
+
 ## V2
+
 ### Blade
 [![Blade_dark](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_dark.png)](Blade_dark)
 [![Blade_light](https://raw.githubusercontent.com/Novafinity/Artwork/main/V2/badges/Blade_light.png)](Blade_light)
