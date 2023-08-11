@@ -21,9 +21,9 @@ Welcome to Novafinity's Artwork!
 ```
 
 ### C#
-[![C#](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C#.png)](C#)
+[![C#](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C%23.png)](C#)
 ``` 
-[![C#](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C#.png)](C#) 
+[![C#](https://raw.githubusercontent.com/Novafinity/Artwork/main/V3/badges/C%23.png)](C#) 
 ```
 
 ### C++
